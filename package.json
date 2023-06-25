@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "name": "bypet-main-api",
+  "version": "1.0.0",
+  "description": "Projeto para TCC,iniciando os testes de API e Mapeando rotas",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gean da Silva Pereira",
+  "license": "ISC"
+}
